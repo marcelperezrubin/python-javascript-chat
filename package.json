@@ -1,0 +1,21 @@
+{
+    "name": "python-javascript-chat",
+    "version": "1.0.0",
+    "description": "A react chat with python backend",
+    "main": "index.js",
+    "scripts": {
+      "start": "echo 'No start script specified'",
+      "build": "react-scripts build"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/tu-usuario/tu-repositorio.git"
+    },
+    "author": "Marcel Rubin Perez",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/marcelperezrubin/python-javascript-chat"
+    },
+    "homepage": ""
+  }
+  
