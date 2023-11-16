@@ -4,8 +4,14 @@
     "description": "A react chat with python backend",
     "main": "index.js",
     "scripts": {
-      "start": "echo 'No start script specified'",
-      "build": "react-scripts build"
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+
+    "devDependencies": {
+      "react-scripts": "^4.0.0"  
     },
     "repository": {
       "type": "git",
