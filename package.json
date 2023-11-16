@@ -1,27 +1,28 @@
 {
-    "name": "python-javascript-chat",
-    "version": "1.0.0",
-    "description": "A react chat with python backend",
-    "main": "index.js",
-    "scripts": {
-      "start": "react-scripts start",
-      "build": "react-scripts build",
-      "test": "react-scripts test",
-      "eject": "react-scripts eject"
-    },
-
-    "devDependencies": {
-      "react-scripts": "^4.0.0"  
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/tu-usuario/tu-repositorio.git"
-    },
-    "author": "Marcel Rubin Perez",
-    "license": "MIT",
-    "bugs": {
-      "url": "https://github.com/marcelperezrubin/python-javascript-chat"
-    },
-    "homepage": ""
-  }
-  
+  "name": "python-javascript-chat",
+  "version": "1.0.0",
+  "description": "A react chat with python backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "v18.16.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/tu-repositorio.git"
+  },
+  "author": "Marcel Rubin Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelperezrubin/python-javascript-chat"
+  },
+  "homepage": ""
+}
